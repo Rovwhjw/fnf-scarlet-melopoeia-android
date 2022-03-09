@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="p-layer3.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="projectile layer 30000" x="0" y="0" width="4233" height="329" frameX="0" frameY="0" frameWidth="4393" frameHeight="336"/>
+	<SubTexture name="projectile layer 30001" x="0" y="329" width="4237" height="330" frameX="-11" frameY="0" frameWidth="4393" frameHeight="336"/>
+	<SubTexture name="projectile layer 30002" x="0" y="659" width="4239" height="329" frameX="-23" frameY="-1" frameWidth="4393" frameHeight="336"/>
+	<SubTexture name="projectile layer 30003" x="0" y="988" width="4242" height="330" frameX="-35" frameY="-1" frameWidth="4393" frameHeight="336"/>
+	<SubTexture name="projectile layer 30004" x="0" y="1318" width="4245" height="329" frameX="-46" frameY="-2" frameWidth="4393" frameHeight="336"/>
+	<SubTexture name="projectile layer 30005" x="0" y="1647" width="4248" height="330" frameX="-58" frameY="-2" frameWidth="4393" frameHeight="336"/>
+	<SubTexture name="projectile layer 30006" x="0" y="1977" width="4251" height="330" frameX="-69" frameY="-3" frameWidth="4393" frameHeight="336"/>
+	<SubTexture name="projectile layer 30007" x="0" y="2307" width="4254" height="330" frameX="-81" frameY="-3" frameWidth="4393" frameHeight="336"/>
+	<SubTexture name="projectile layer 30008" x="0" y="2637" width="4256" height="330" frameX="-93" frameY="-4" frameWidth="4393" frameHeight="336"/>
+	<SubTexture name="projectile layer 30009" x="0" y="2967" width="4260" height="330" frameX="-104" frameY="-4" frameWidth="4393" frameHeight="336"/>
+	<SubTexture name="projectile layer 30010" x="0" y="3297" width="4263" height="330" frameX="-116" frameY="-5" frameWidth="4393" frameHeight="336"/>
+	<SubTexture name="projectile layer 30011" x="0" y="3627" width="4266" height="331" frameX="-127" frameY="-5" frameWidth="4393" frameHeight="336"/>
+</TextureAtlas>
