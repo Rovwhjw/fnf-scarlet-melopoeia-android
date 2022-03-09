@@ -1,0 +1,115 @@
+{
+	"dialogue_pos": "center",
+	"position": [
+		-70,
+		-190
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"loop_offsets": [
+				7,
+				35
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				0,
+				-1
+			],
+			"loop_name": "GF SHOCK LOOP",
+			"idle_name": "GF SHOCK0"
+		},
+		{
+			"loop_name": "GF LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "GF LOOP",
+			"anim": "idle",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "GF ANGRY LOOP",
+			"idle_offsets": [
+				-1,
+				-1
+			],
+			"idle_name": "GF ANGRY0",
+			"anim": "angry",
+			"loop_offsets": [
+				6,
+				2
+			]
+		},
+		{
+			"loop_name": "GF UH LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "GF UH0",
+			"anim": "uh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "GF DOUBT LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "GF DOUBT0",
+			"anim": "doubt",
+			"loop_offsets": [
+				5,
+				3
+			]
+		},
+		{
+			"loop_name": "GF OWO LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "GF OWO LOOP",
+			"anim": "owo",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "GF WUT LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "GF WUT0",
+			"anim": "wut",
+			"loop_offsets": [
+				11,
+				4
+			]
+		},
+		{
+			"loop_name": "GF TALK LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "GF TALK LOOP",
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "RGF_Dialogue"
+}

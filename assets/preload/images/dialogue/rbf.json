@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		-100
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "BF LOOP",
+			"idle_name": "BF LOOP"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				-3,
+				-2
+			],
+			"loop_name": "BF BRUH LOOP",
+			"idle_name": "BF BRUH0"
+		},
+		{
+			"loop_offsets": [
+				16,
+				20
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-3,
+				5
+			],
+			"loop_name": "BF SHOCK LOOP",
+			"idle_name": "BF SHOCK0"
+		},
+		{
+			"idle_offsets": [
+				-5,
+				-1
+			],
+			"anim": "frown",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF FROWN0",
+			"loop_name": "BF FROWN LOOP"
+		},
+		{
+			"idle_offsets": [
+				-3,
+				-3
+			],
+			"anim": "neutral",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF NEUTRAL0",
+			"loop_name": "BF NEUTRAL LOOP"
+		},
+		{
+			"loop_name": "BF WORRY LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "BF WORRY LOOP",
+			"anim": "worried",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "RBF_Dialogue"
+}

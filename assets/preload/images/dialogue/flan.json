@@ -1,0 +1,128 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		-100,
+		-190
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "FLAN LOOP",
+			"idle_name": "FLAN LOOP"
+		},
+		{
+			"loop_name": "FLAN DARK",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FLAN DARK",
+			"anim": "in the dark",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "FLAN NEUTRAL LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FLAN NEUTRAL0",
+			"anim": "neutral",
+			"loop_offsets": [
+				5,
+				2
+			]
+		},
+		{
+			"loop_name": "FLAN EXCITED LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FLAN EXCITED0",
+			"anim": "excited",
+			"loop_offsets": [
+				3,
+				18
+			]
+		},
+		{
+			"loop_name": "FLAN ANGRY LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FLAN ANGRY0",
+			"anim": "angry",
+			"loop_offsets": [
+				7,
+				5
+			]
+		},
+		{
+			"loop_name": "FLAN POUT LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FLAN POUT0",
+			"anim": "pout",
+			"loop_offsets": [
+				2,
+				0
+			]
+		},
+		{
+			"loop_name": "FLAN CONFIDENT LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FLAN CONFIDENT LOOP",
+			"anim": "confident",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "FLAN OFF GUARD LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FLAN OFF GUARD0",
+			"anim": "off-guard",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "FLAN SMIRK LOOP",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "FLAN SMIRK0",
+			"anim": "smirk",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "FLAN_Dialogue"
+}
