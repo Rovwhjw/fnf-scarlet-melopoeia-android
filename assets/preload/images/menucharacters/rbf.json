@@ -1,0 +1,10 @@
+{
+	"idle_anim": "idle",
+	"image": "rbf",
+	"position": [
+		0,
+		-85
+	],
+	"scale": 1,
+	"confirm_anim": ""
+}
