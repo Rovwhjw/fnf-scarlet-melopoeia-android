@@ -1,0 +1,48 @@
+{
+	"storyName": "Mysterious bedroom",
+	"hideFreeplay": false,
+	"weekBackground": "darkness",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"rbf",
+		""
+	],
+	"songs": [
+		[
+			"Lonely Girl",
+			"darkflan",
+			[
+				115,
+				60,
+				60
+			]
+		],
+		[
+			"Cranberry Tune",
+			"flan",
+			[
+				206,
+				60,
+				60
+			]
+		],
+		[
+			"Kagome",
+			"flan",
+			[
+				255,
+				100,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Flandre Week"
+}
