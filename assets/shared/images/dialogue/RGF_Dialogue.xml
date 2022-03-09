@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RGF_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF ANGRY LOOP0000" x="377" y="0" width="345" height="469"/>
+	<SubTexture name="GF DOUBT00000" x="377" y="0" width="345" height="469"/>
+	<SubTexture name="GF LOOP0000" x="7188" y="377" y="0" width="345" height="469"/>
+	<SubTexture name="GF OWO LOOP0000" x="0" y="377" y="0" width="345" height="469"/>
+	<SubTexture name="GF SHOCK LOOP0000" x="377" y="0" width="345" height="469"/>
+	<SubTexture name="GF SHOCK00000" x="377" y="0" width="345" height="469"/>
+	<SubTexture name="GF TALK LOOP0000" x="377" y="0" width="345" height="469"/>
+	<SubTexture name="GF UH LOOP0000" x="377" y="0" width="345" height="469"/>
+	<SubTexture name="GF UH00000" x="377" y="0" width="345" height="469"/>
+	<SubTexture name="GF WUT LOOP 0000" x="377" y="0" width="345" height="469"/>
+</TextureAtlas>

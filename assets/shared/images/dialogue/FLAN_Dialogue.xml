@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FLAN_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FLAN ANGRY LOOP0000" x="0" y="1014" width="522" height="498"/>
+	<SubTexture name="FLAN ANGRY00000" x="0" y="1014" width="522" height="498"/>
+	<SubTexture name="FLAN CONFIDENT LOOP0000" x="4143" y="0" width="1025" height="978"/>
+	<SubTexture name="FLAN DARK0000" x="537" y="1014" width="522" height="978"/>
+	<SubTexture name="FLAN EXCITED LOOP0000" x="0" y="1014" width="522" height="498"/>
+	<SubTexture name="FLAN LOOP0000" x="0" y="1014" width="522" height="498"/>
+	<SubTexture name="FLAN NEUTRAL LOOP0000" x="0" y="1014" width="522" height="498"/>
+	<SubTexture name="FLAN NEUTRAL00000" x="0" y="1014" width="522" height="498"/>
+	<SubTexture name="FLAN OFF GUARD LOOP0000" x="0" y="1014" width="522" height="498"/>
+	<SubTexture name="FLAN OFF GUARD00000" x="0" y="1014" width="522" height="498"/>
+	<SubTexture name="FLAN POUT LOOP0000" x="0" y="1014" width="522" height="498"/>
+	<SubTexture name="FLAN POUT00000" x="0" y="1014" width="522" height="498"/>
+	<SubTexture name="FLAN SMIRK LOOP0000" x="0" y="1014" width="522" height="498"/>
+	<SubTexture name="FLAN SMIRK00000" x="0" y="0" y="1014" width="522" height="498"/>
+</TextureAtlas>

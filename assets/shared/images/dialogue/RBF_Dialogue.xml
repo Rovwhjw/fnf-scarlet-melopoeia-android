@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RBF_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF BRUH LOOP0000" x="1026" y="917" width="538" height="906"/>
+	<SubTexture name="BF BRUH00000" x="0" y="1026" y="917" width="538" height="906"/>
+	<SubTexture name="BF FROWN LOOP0000" x="1026" y="917" width="538" height="906"/>
+	<SubTexture name="BF FROWN00000" x="1026" y="917" width="538" height="906"/>
+	<SubTexture name="BF LOOP0000" x="1026" y="917" width="538" height="906"/>
+	<SubTexture name="BF NEUTRAL LOOP0000" x="1026" y="917" width="538" height="906"/>
+	<SubTexture name="BF NEUTRAL00000" x="1026" y="917" width="538" height="906"/>
+	<SubTexture name="BF WORRY LOOP0000" x="1026" y="917" width="538" height="906"/>
+	<SubTexture name="BF WORRY00000" x="1026" y="917" width="538" height="906"/>
+</TextureAtlas>
