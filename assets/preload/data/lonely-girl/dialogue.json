@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"expression": "frown",
+			"text": "Ugh... what happened?-",
+			"boxState": "normal",
+			"portrait": "rbf",
+			"speed": 0.075
+		},
+		{
+			"expression": "doubt",
+			"text": "you touched a fucking red rubik's cube and now we're on this dark af room, babe",
+			"boxState": "normal",
+			"portrait": "rgf",
+			"speed": 0.00499999999999962
+		},
+		{
+			"expression": "shocked",
+			"text": "OHMYGODPLEASEDONTKILLME-",
+			"boxState": "angry",
+			"portrait": "rbf",
+			"speed": 0.00500000000000001
+		},
+		{
+			"expression": "neutral",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "rbf",
+			"speed": 0.25
+		},
+		{
+			"expression": "frown",
+			"text": "Geez Louise, hun, don't scare me like that.",
+			"boxState": "normal",
+			"portrait": "rbf",
+			"speed": 0.025
+		},
+		{
+			"expression": "worried",
+			"text": "Where the hell are we, anyway? This dark room is chilling my spine...",
+			"boxState": "normal",
+			"portrait": "rbf",
+			"speed": 0.045
+		},
+		{
+			"expression": "wut",
+			"text": "Well, the thing is-",
+			"boxState": "normal",
+			"portrait": "rgf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shocked",
+			"text": "THE FUCK IS THAT BEHIND YOU?!",
+			"boxState": "angry",
+			"portrait": "rbf",
+			"speed": 0.01
+		},
+		{
+			"expression": "shocked",
+			"text": "WHA--",
+			"boxState": "angry",
+			"portrait": "rgf",
+			"speed": 0.015
+		},
+		{
+			"expression": "in the dark",
+			"text": ". . .",
+			"boxState": "normal",
+			"speed": 0.2,
+			"portrait": "flan"
+		},
+		{
+			"expression": "worried",
+			"text": "B-beep bo-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rbf"
+		},
+		{
+			"expression": "in the dark",
+			"text": ". . . Your microphone . . .",
+			"boxState": "normal",
+			"speed": 0.2,
+			"portrait": "flan"
+		},
+		{
+			"expression": "wut",
+			"text": "the fu-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rgf"
+		},
+		{
+			"expression": "in the dark",
+			"text": "Prove your worthiness, human.",
+			"boxState": "normal",
+			"speed": 0.1,
+			"portrait": "flan"
+		},
+		{
+			"expression": "pissed",
+			"text": "Oh come on, why does it have to always come up to THAT?",
+			"boxState": "normal",
+			"speed": 0.04,
+			"portrait": "rbf"
+		},
+		{
+			"expression": "frown",
+			"text": "Alright, fine, let's just do this, weird silhou- ette with floathing things, notcreepyatall",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rbf"
+		},
+		{
+			"expression": "uh",
+			"text": "Man, everywhere we go, shit is resolved the EXACT same way again and again.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "rgf"
+		}
+	]
+}
