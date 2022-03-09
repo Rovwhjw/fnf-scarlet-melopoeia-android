@@ -1,0 +1,213 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "flan_idle"
+		},
+		{
+			"offsets": [
+				6,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				1,
+				1,
+				1,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "flan_singLEFT"
+		},
+		{
+			"offsets": [
+				-15,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				1,
+				1,
+				1,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "flan_singRIGHT"
+		},
+		{
+			"offsets": [
+				-5,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				1,
+				1,
+				1,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "flan_singDOWN"
+		},
+		{
+			"offsets": [
+				-18,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [
+				1,
+				1,
+				1,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "flan_singUP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "flan_MICidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				14
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "flan_MICsingLEFT",
+			"indices": [
+				1,
+				1,
+				1,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-14
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "flan_MICsingDOWN",
+			"indices": [
+				1,
+				1,
+				1,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				36
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "flan_MICsingUP",
+			"indices": [
+				1,
+				1,
+				1,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-11
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "flan_MICsingRIGHT",
+			"indices": [
+				1,
+				1,
+				1,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Flandre_Scarlet_Assets",
+	"position": [
+		0,
+		360
+	],
+	"healthicon": "flan",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		16,
+		49
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6,
+	"scale": 1
+}
