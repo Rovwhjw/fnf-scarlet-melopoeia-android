@@ -1,0 +1,256 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "flan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "There, now you know my true appearance."
+		},
+		{
+			"speed": 0.035,
+			"portrait": "rbf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": ". . . Okay you look a lot different from what I've imagined."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "flan",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "And what exactly did you imagine?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rbf",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "i'd rather not say it"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rgf",
+			"boxState": "normal",
+			"expression": "uh",
+			"text": "bf what-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rbf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Anyway, uh, who are you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "flan",
+			"boxState": "normal",
+			"expression": "pout",
+			"text": "Uh, you know, before asking a person's name..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rbf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "?"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "rgf",
+			"boxState": "normal",
+			"expression": "doubt",
+			"text": "(You have to say yours, dumbass.)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rbf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "OH"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, I am The Boyfriend, but you can call me BF for short."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rgf",
+			"boxState": "normal",
+			"expression": "idle",
+			"text": "And I am The Girlfriend, you can call me GF."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "flan",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "...Those are some very odd names."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rgf",
+			"boxState": "normal",
+			"expression": "wut",
+			"text": "Yeah, we're used to people saying that."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "flan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, anyway, I'm Flandre, Flandre Scarlet."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rbf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "So, Flandre, where exactly are we?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "flan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, you're in my bedroom! That's in the base- ment of the Scarlet Devil Mansion."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ohhh, I see-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rgf",
+			"boxState": "normal",
+			"expression": "wut",
+			"text": "-wait you live in a basement?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rgf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and the mansion of what now?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "flan",
+			"boxState": "normal",
+			"expression": "off-guard",
+			"text": "Well, yes, I live in a basement, but that's due to my very destructive behavior."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "flan",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "That's the reason I go along with it, it's only fair."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rgf",
+			"boxState": "normal",
+			"expression": "wut",
+			"text": "Uh, right."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rbf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "So... why did you want me to sing all of a sudden then?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "flan",
+			"boxState": "normal",
+			"expression": "smirk",
+			"text": "Oh, you know, being locked here for 495 years tends to get boring very quickly."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "flan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then I saw your mic, and just thought: Ehh, sure, why not?"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "rbf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "495 YEARS?!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "flan",
+			"boxState": "normal",
+			"expression": "pout",
+			"text": "Uh, yeah, I'm a vampire."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rbf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Oh."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "rbf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": ". . ."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "rgf",
+			"boxState": "normal",
+			"expression": "wut",
+			"text": ". . ."
+		},
+		{
+			"speed": 0.08,
+			"portrait": "flan",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": ". . ."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wanna sing more?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "flan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sure! I don't see why not. Plus, it was fun, so let's go!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A'ight, hit it, hun!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rgf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "On it, babe!"
+		}
+	]
+}
