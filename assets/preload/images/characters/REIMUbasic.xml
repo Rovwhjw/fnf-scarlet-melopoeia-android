@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="REIMUbasic.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="REIMU_downSING0000" x="1004" y="0" width="538" height="564"/>
+	<SubTexture name="REIMU_idle0000" x="1026" y="583" width="516" height="546"/>
+	<SubTexture name="REIMU_leftSING0000" x="522" y="0" width="501" height="584"/>
+	<SubTexture name="REIMU_rightSING0000" x="507" y="587" width="516" height="563"/>
+	<SubTexture name="REIMU_upSING0000" x="0" y="0" width="516" height="584"/>
+</TextureAtlas>

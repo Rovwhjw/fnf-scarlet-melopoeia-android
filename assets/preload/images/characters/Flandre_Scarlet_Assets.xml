@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Flandre_Scarlet_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flan_MICidle0000" x="14" y="811" width="374" height="365"/>
+	<SubTexture name="flan_MICsingDOWN0000" x="410" y="816" width="374" height="365"/>
+	<SubTexture name="flan_MICsingLEFT0000" x="801" y="811" width="374" height="376"/>
+	<SubTexture name="flan_MICsingRIGHT0000" x="1173" y="0" width="400" height="377"/>
+	<SubTexture name="flan_MICsingUP0000" x="1164" y="388" width="363" height="404"/>
+	<SubTexture name="flan_idle0000" x="0" y="0" width="400" height="377"/>
+	<SubTexture name="flan_singDOWN0000" x="413" y="0" width="400" height="377"/>
+	<SubTexture name="flan_singLEFT0000" x="808" y="0" width="354" height="385"/>
+	<SubTexture name="flan_singRIGHT0000" x="426" y="398" width="389" height="376"/>
+	<SubTexture name="flan_singUP0000" x="816" y="398" width="363" height="404"/>
+</TextureAtlas>

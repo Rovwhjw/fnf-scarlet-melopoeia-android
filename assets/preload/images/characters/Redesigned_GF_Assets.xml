@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Redesigned_GF_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF_idleLEFT0000" x="2" y="507" width="348" height="238"/>
+	<SubTexture name="GF_idleLEFT0001" x="3" y="9" width="348" height="239"/>
+	<SubTexture name="GF_idleLEFT0002" x="3" y="9" width="348" height="239"/>
+	<SubTexture name="GF_idleLEFT0003" x="353" y="6" width="348" height="239"/>
+	<SubTexture name="GF_idleLEFT0004" x="353" y="6" width="348" height="239"/>
+	<SubTexture name="GF_idleLEFT0005" x="353" y="6" width="348" height="239"/>
+	<SubTexture name="GF_idleLEFT0006" x="701" y="4" width="348" height="241"/>
+	<SubTexture name="GF_idleLEFT0007" x="2" y="507" width="348" height="238"/>
+	<SubTexture name="GF_idleRIGHT0000" x="2" y="507" width="348" height="238"/>
+	<SubTexture name="GF_idleRIGHT0001" x="0" y="261" width="351" height="238"/>
+	<SubTexture name="GF_idleRIGHT0002" x="0" y="261" width="351" height="238"/>
+	<SubTexture name="GF_idleRIGHT0003" x="352" y="262" width="350" height="263"/>
+	<SubTexture name="GF_idleRIGHT0004" x="352" y="262" width="350" height="263"/>
+	<SubTexture name="GF_idleRIGHT0005" x="702" y="261" width="350" height="238"/>
+	<SubTexture name="GF_idleRIGHT0006" x="702" y="261" width="350" height="238"/>
+	<SubTexture name="GF_idleRIGHT0007" x="3" y="262" width="347" height="237"/>
+	<SubTexture name="GF_idleRIGHT0008" x="702" y="261" width="350" height="238"/>
+	<SubTexture name="GF_idleRIGHT0009" x="2" y="507" width="348" height="238"/>
+	<SubTexture name="GF_idleRIGHT0010" x="2" y="507" width="348" height="238"/>
+	<SubTexture name="GF_miss0000" x="3" y="763" width="349" height="235"/>
+</TextureAtlas>

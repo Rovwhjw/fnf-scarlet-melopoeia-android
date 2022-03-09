@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Redesigned_DarkBF_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF_idle0000" x="940" y="0" width="360" height="414"/>
+	<SubTexture name="BF_singDOWN0000" x="0" y="0" width="292" height="377"/>
+	<SubTexture name="BF_singLEFT0000" x="633" y="0" width="316" height="400"/>>
+	<SubTexture name="BF_singRIGHT0000" x="605" y="392" width="367" height="412"/>
+	<SubTexture name="BF_singUP0000" x="297" y="0" width="331" height="481"/>
+</TextureAtlas>

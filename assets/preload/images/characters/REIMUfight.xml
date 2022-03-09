@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="REIMUfight.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="REIMU_downFIGHT0000" x="0" y="0" width="872" height="537"/>
+	<SubTexture name="REIMU_idleFIGHT0000" x="0" y="548" width="531" height="560"/>
+	<SubTexture name="REIMU_leftFIGHT 0000" x="1202" y="582" width="597" height="560"/>
+	<SubTexture name="REIMU_rightFIGHT0000" x="534" y="556" width="670" height="560"/>
+	<SubTexture name="REIMU_upFIGHT 0000" x="1134" y="0" width="665" height="579"/>
+</TextureAtlas>

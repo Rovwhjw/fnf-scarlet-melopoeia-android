@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RBF.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RBF_DOWNSing0000" x="1356" y="4" width="180" height="194"/>
+	<SubTexture name="RBF_DOWNSing0001" x="1356" y="4" width="180" height="194"/>
+	<SubTexture name="RBF_DOWNSing0002" x="5" y="783" width="175" height="171"/>
+	<SubTexture name="RBF_DOWNSing0003" x="5" y="783" width="175" height="171"/>
+	<SubTexture name="RBF_DOWNSing0004" x="180" y="782" width="174" height="172"/>
+	<SubTexture name="RBF_DOWNSing0005" x="180" y="782" width="174" height="172"/>
+	<SubTexture name="RBF_DOWNSing0006" x="180" y="782" width="174" height="172"/>
+	<SubTexture name="RBF_DOWNSing0007" x="355" y="782" width="174" height="172"/>
+	<SubTexture name="RBF_DOWNSing0008" x="355" y="782" width="174" height="172"/>
+	<SubTexture name="RBF_DOWNSing0009" x="355" y="782" width="174" height="172"/>
+	<SubTexture name="RBF_LEFTSing0000" x="497" y="11" width="173" height="202"/>
+	<SubTexture name="RBF_LEFTSing0001" x="497" y="11" width="173" height="202"/>
+	<SubTexture name="RBF_LEFTSing0002" x="497" y="11" width="173" height="202"/>
+	<SubTexture name="RBF_LEFTSing0003" x="669" y="10" width="170" height="200"/>
+	<SubTexture name="RBF_LEFTSing0004" x="839" y="10" width="170" height="200"/>
+	<SubTexture name="RBF_LEFTSing0005" x="839" y="10" width="170" height="200"/>
+	<SubTexture name="RBF_LEFTSing0006" x="669" y="10" width="170" height="200"/>
+	<SubTexture name="RBF_LEFTSing0007" x="1008" y="11" width="170" height="200"/>
+	<SubTexture name="RBF_LEFTSing0008" x="1008" y="11" width="170" height="200"/>
+	<SubTexture name="RBF_RIGHTSing0000" x="1179" y="11" width="170" height="208"/>
+	<SubTexture name="RBF_RIGHTSing0001" x="1179" y="11" width="170" height="208"/>
+	<SubTexture name="RBF_RIGHTSing0002" x="1179" y="11" width="170" height="208"/>
+	<SubTexture name="RBF_RIGHTSing0003" x="529" y="782" width="179" height="206"/>
+	<SubTexture name="RBF_RIGHTSing0004" x="529" y="782" width="179" height="206"/>
+	<SubTexture name="RBF_UPSing0000" x="0" y="537" width="175" height="231"/>
+	<SubTexture name="RBF_UPSing0001" x="0" y="537" width="175" height="468"/>
+	<SubTexture name="RBF_UPSing0002" x="176" y="534" width="175" height="231"/>
+	<SubTexture name="RBF_UPSing0003" x="176" y="534" width="175" height="231"/>
+	<SubTexture name="RBF_UPSing0004" x="350" y="533" width="175" height="231"/>
+	<SubTexture name="RBF_UPSing0005" x="350" y="533" width="175" height="231"/>
+	<SubTexture name="RBF_UPSing0006" x="521" y="532" width="175" height="231"/>
+	<SubTexture name="RBF_UPSing0007" x="521" y="532" width="175" height="231"/>
+	<SubTexture name="RBF_dodge0000" x="6" y="19" width="153" height="227"/>
+	<SubTexture name="RBF_dodge0001" x="6" y="19" width="153" height="227"/>
+	<SubTexture name="RBF_dodge0002" x="167" y="16" width="153" height="227"/>
+	<SubTexture name="RBF_dodge0003" x="167" y="16" width="153" height="227"/>
+	<SubTexture name="RBF_dodge0004" x="325" y="15" width="152" height="227"/>
+	<SubTexture name="RBF_dodge0005" x="325" y="15" width="152" height="227"/>
+	<SubTexture name="RBF_dodge0006" x="6" y="275" width="153" height="224"/>
+	<SubTexture name="RBF_dodge0007" x="160" y="277" width="153" height="224"/>
+	<SubTexture name="RBF_dodge0008" x="160" y="277" width="153" height="224"/>
+	<SubTexture name="RBF_idle0000" x="326" y="269" width="153" height="197"/>
+	<SubTexture name="RBF_idle0001" x="326" y="269" width="153" height="197"/>
+	<SubTexture name="RBF_idle0002" x="326" y="269" width="153" height="197"/>
+	<SubTexture name="RBF_idle0003" x="785" y="264" width="150" height="199"/>
+	<SubTexture name="RBF_idle0004" x="785" y="264" width="150" height="199"/>
+	<SubTexture name="RBF_idle0005" x="635" y="266" width="147" height="199"/>
+	<SubTexture name="RBF_idle0006" x="635" y="266" width="147" height="199"/>
+	<SubTexture name="RBF_idle0007" x="482" y="268" width="150" height="200"/>
+	<SubTexture name="RBF_idle0008" x="482" y="268" width="150" height="200"/>
+</TextureAtlas>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Flandre_Scarlet_FLY_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flan_ATTACKidle0000" x="12" y="13" width="291" height="219"/>
+	<SubTexture name="flan_ATTACKidle0001" x="11" y="266" width="291" height="219"/>
+	<SubTexture name="flan_ATTACKsingDOWN0000" x="1225" y="782" width="225" height="264"/>
+	<SubTexture name="flan_ATTACKsingLEFT0000" x="934" y="1074" width="297" height="251"/>
+	<SubTexture name="flan_ATTACKsingRIGHT0000" x="1468" y="267" width="291" height="263"/>
+	<SubTexture name="flan_ATTACKsingUP0000" x="1441" y="18" width="280" height="231"/>
+	<SubTexture name="flan_FLYidle0000" x="12" y="13" width="291" height="219"/>
+	<SubTexture name="flan_FLYidle0001" x="12" y="13" width="291" height="219"/>
+	<SubTexture name="flan_FLYsingDOWN0000" x="1225" y="782" width="225" height="264"/>
+	<SubTexture name="flan_FLYsingLEFT0000" x="934" y="1074" width="297" height="251"/>
+	<SubTexture name="flan_FLYsingRIGHT0000" x="1468" y="267" width="291" height="263"/>
+	<SubTexture name="flan_FLYsingUP0000" x="1441" y="18" width="280" height="231"/>
+	<SubTexture name="flan_shootDOWN0000" x="371" y="788" width="556" height="254"/>
+	<SubTexture name="flan_shootLEFT 0000" x="371" y="788" width="556" height="254"/>
+	<SubTexture name="flan_shootRIGHT0000" x="371" y="788" width="556" height="254"/>
+	<SubTexture name="flan_shootUP0000" x="371" y="788" width="556" height="254"/>
+</TextureAtlas>
